@@ -1,0 +1,14 @@
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.csproj.AssemblyReference.cache
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.AssemblyInfo.cs
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.exe
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.deps.json
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.runtimeconfig.json
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.runtimeconfig.dev.json
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.dll
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.pdb
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.dll
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.pdb
+C:\Users\jucam\source\repos\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.genruntimeconfig.cache
